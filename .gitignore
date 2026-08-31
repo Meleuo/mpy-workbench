@@ -6,3 +6,4 @@
 .mpy-workbench-*
 dist
 node_modules
+*.vsix
