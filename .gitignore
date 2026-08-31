@@ -4,3 +4,5 @@
 .cursor
 .mpy-workbench
 .mpy-workbench-*
+dist
+node_modules
